@@ -112,26 +112,6 @@ Each stage acts as a **control point**. If security or quality fails, the pipeli
    Prometheus collects metrics, Grafana visualizes system health.
 
 ---
-## 📊 Project Outcomes & Evidence
-
-> Screenshots of pipeline execution, security scans, Kubernetes deployment, and monitoring dashboards are included below to provide **implementation proof**.
-
-### Jenkins CI/CD Pipeline
-
-![Uploading image.png…]()
-
-
-### SonarQube Quality Gate
-![SonarQube](images/sonarqube-quality-gate.png)
-
-### Trivy Vulnerability Scan
-![Trivy Scan](images/trivy-scan.png)
-
-### Kubernetes Deployment
-![Kubernetes Pods](images/kubernetes-pods.png)
-
-### OWASP ZAP Security Scan
-![OWASP ZAP](images/owasp-zap-scan.png)
 
 ## 🚀 Local Development
 
