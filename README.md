@@ -118,6 +118,9 @@ Each stage acts as a **control point**. If security or quality fails, the pipeli
 
 ### Jenkins CI/CD Pipeline
 
+![Uploading image.png…]()
+
+
 ### SonarQube Quality Gate
 ![SonarQube](images/sonarqube-quality-gate.png)
 
