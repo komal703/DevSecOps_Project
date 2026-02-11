@@ -1,5 +1,4 @@
-# 🔐 Enterprise‑Grade DevSecOps CI/CD Pipeline
-
+# 🔐 SECURE CLOUD-NATIVE DEVSECOPS PLATFORM WITH KUBERNETES
 > **Secure • Automated • Cloud‑Native • Production‑Ready**
 
 This project showcases an **enterprise‑style DevSecOps CI/CD pipeline** designed to build, test, secure, deploy, and monitor a full‑stack web application using modern cloud‑native tooling. The primary goal is to demonstrate how **security can be shifted left and automated** without slowing down delivery.
